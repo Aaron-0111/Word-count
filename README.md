@@ -37,7 +37,7 @@ print("The number of words are in the file is ",num)
 ```
 
 ### OUTPUT:
-![Alt text](2.png)
+![image](https://github.com/23004205/Word-count/assets/138971114/ae8074bb-45bf-4712-bc98-cd5da1ab4049)
 
 
 ## RESULT:
